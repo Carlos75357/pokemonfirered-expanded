@@ -1638,6 +1638,9 @@
 #define SPECIES_MIMIKYU_BUSTED_TOTEM                    1523
 #define SPECIES_MIMIKYU_TOTEM_BUSTED                    SPECIES_MIMIKYU_BUSTED_TOTEM
 
+// Gen 10 Pokémon Personalizados (Añade aquí tus especies inventadas)
+// Ejemplo: #define SPECIES_TU_POKEMON                              1524
+
 #define SPECIES_EGG                                     (SPECIES_MIMIKYU_BUSTED_TOTEM + 1)
 
 #define NUM_SPECIES SPECIES_EGG

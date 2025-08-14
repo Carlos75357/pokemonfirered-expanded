@@ -28911,3 +28911,22 @@ static const u16 sPecharuntTeachableLearnset[] = {
     MOVE_UNAVAILABLE,
 };
 #endif //P_FAMILY_PECHARUNT
+
+// Gen 10 Pokémon Personalizados - Teachable Learnsets
+// Plantilla para tus Pokémon inventados:
+/*
+#if P_FAMILY_TU_POKEMON_PERSONALIZADO
+static const u16 sTuPokemonTeachableLearnset[] = {
+    MOVE_ATTRACT,
+    MOVE_DOUBLE_TEAM,
+    MOVE_FACADE,
+    MOVE_PROTECT,
+    MOVE_REST,
+    MOVE_TOXIC,
+    // Añade aquí los movimientos que puede aprender por MT/MO
+    MOVE_UNAVAILABLE,
+};
+#endif //P_FAMILY_TU_POKEMON_PERSONALIZADO
+*/
+
+// *** AÑADE TUS TEACHABLE LEARNSETS AQUÍ ***

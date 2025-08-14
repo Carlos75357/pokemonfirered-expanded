@@ -1040,6 +1040,9 @@ enum NationalDexOrder
     NATIONAL_DEX_IRON_CROWN,
     NATIONAL_DEX_TERAPAGOS,
     NATIONAL_DEX_PECHARUNT,
+    
+    // Gen 10 Pokémon Personalizados (Añade aquí tus números de Pokédex Nacional)
+    // Ejemplo: NATIONAL_DEX_TU_POKEMON,
     NATIONAL_DEX_END
 };
 
